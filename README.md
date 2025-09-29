@@ -4,10 +4,6 @@
 
 Welcome to the Task Manager Web App repository! This project provides a responsive web-based task manager that allows users to create, manage, prioritize, and track tasks efficiently.
 
-<h1 align="center">
-  👉<a href="https://sm-taskmanager.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-</h1>
-
 ## Features
 
 - **Task Creation:** Easily add new tasks with a user-friendly input field.
@@ -47,10 +43,5 @@ Remove tasks by clicking the "Delete" button.
 Contributions
 Contributions are welcome! If you'd like to improve this project or fix any issues, please fork the repository and submit a pull request.
 
-License
-This project is licensed under the MIT License.
-
-Contact
-If you have any questions or suggestions, feel free to contact us.
 
 Happy task managing! 🚀
